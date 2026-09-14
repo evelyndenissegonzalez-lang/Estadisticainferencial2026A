@@ -1,0 +1,16 @@
+A menudo, quienes hacen la contabilidad de costos estiman los gastos generales con base en el nivel de producción. En Standard Knitting Co. han reunido información acerca de los gastos generales y las unidades producidas en diferentes plantas.
+
+Gastos generales	191	170	272	155	280	173	234	116	153	178
+Unidades	40	42	53	35	56	39	48	30	37	40
+Establesca una variable dependiente ( Y ) y una variable independiente ( X ).
+Realice un diagrama de dispersión para estos datos.
+¿Los datos soportan la suposición de linealidad?
+Calcule el coeficiente de correlación e interprete el resultado.
+Calcule el coeficiente de determinación e interprete el resultado.
+Obtenga la recta de regresión ajustada y grafíquelo sobre el gráfico de dispersión.
+Obtenga un intervalo de confianza del 95% para la pendiente de la recta de regresión ajustada ( b1 )
+Calcule los residuales y trace un nuevo gráfico de dispersión. Comente, ¿Parece que se verifican los supuestos?
+Realice la prueba de Shapiro para los residuales y comente el resultado.
+Realice la prueba de Brausch-Pagan para los residuales y comente el resultado.
+Utiliza la recta de regresión para interpolar dos valores y extrapolar uno. Comenta estos resultados.
+Realice una tabla ANOVA e interprete el resultado.
